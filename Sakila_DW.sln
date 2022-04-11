@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Sakila_DW", "Sakila_DW\Sakila_DW.sqlproj", "{6B9E4CF9-2DA2-487D-868D-31914C703B92}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B9E4CF9-2DA2-487D-868D-31914C703B92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B9E4CF9-2DA2-487D-868D-31914C703B92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B9E4CF9-2DA2-487D-868D-31914C703B92}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{6B9E4CF9-2DA2-487D-868D-31914C703B92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B9E4CF9-2DA2-487D-868D-31914C703B92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B9E4CF9-2DA2-487D-868D-31914C703B92}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0C20B0C-EE5C-4ADE-898D-79885448EB59}
+	EndGlobalSection
+EndGlobal
